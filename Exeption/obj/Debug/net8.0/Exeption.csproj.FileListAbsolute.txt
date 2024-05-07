@@ -1,0 +1,14 @@
+C:\Users\27768\Downloads\Exeption\bin\Debug\net8.0\Exeption.exe
+C:\Users\27768\Downloads\Exeption\bin\Debug\net8.0\Exeption.deps.json
+C:\Users\27768\Downloads\Exeption\bin\Debug\net8.0\Exeption.runtimeconfig.json
+C:\Users\27768\Downloads\Exeption\bin\Debug\net8.0\Exeption.dll
+C:\Users\27768\Downloads\Exeption\bin\Debug\net8.0\Exeption.pdb
+C:\Users\27768\Downloads\Exeption\obj\Debug\net8.0\Exeption.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\27768\Downloads\Exeption\obj\Debug\net8.0\Exeption.AssemblyInfoInputs.cache
+C:\Users\27768\Downloads\Exeption\obj\Debug\net8.0\Exeption.AssemblyInfo.cs
+C:\Users\27768\Downloads\Exeption\obj\Debug\net8.0\Exeption.csproj.CoreCompileInputs.cache
+C:\Users\27768\Downloads\Exeption\obj\Debug\net8.0\Exeption.dll
+C:\Users\27768\Downloads\Exeption\obj\Debug\net8.0\refint\Exeption.dll
+C:\Users\27768\Downloads\Exeption\obj\Debug\net8.0\Exeption.pdb
+C:\Users\27768\Downloads\Exeption\obj\Debug\net8.0\Exeption.genruntimeconfig.cache
+C:\Users\27768\Downloads\Exeption\obj\Debug\net8.0\ref\Exeption.dll
